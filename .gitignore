@@ -1,0 +1,7 @@
+/target
+/highscore.txt
+**/*.rs.bk
+.DS_Store
+.idea/
+.vscode/
+*.log
